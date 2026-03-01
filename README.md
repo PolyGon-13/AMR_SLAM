@@ -2,6 +2,8 @@
 
 Implementation of SLAM algorithms on a customized TurtleBot3 Buger.
 
+![Status](https://img.shields.io/badge/Status-Work--in--Progress-orange)
+
 ---
 
 ## 🛠 Hardware Specifications
