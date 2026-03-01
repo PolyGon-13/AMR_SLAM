@@ -3,7 +3,7 @@
 Implementation of SLAM algorithms on a customized TurtleBot3 Buger.
 
 ![Status](https://img.shields.io/badge/Status-Work--in--Progress-orange)
-(2026.03.01~ )
+![Started](https://img.shields.io/badge/Started-March%201%2C%202026-blue)
 
 ---
 
