@@ -1,0 +1,3 @@
+[submodule "src/algorithms/gmapping"]
+	path = src/algorithms/gmapping
+	url = https://github.com/AMR-SLAM-Porject/slam_gmapping_Humble.git
